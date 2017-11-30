@@ -1,0 +1,4 @@
+Aktualne postêpy:
+-Dokoñczona mapa w terenie górzystym
+-W pe³ni funkcjonalny samochód
+-Stabilizacja kamery tak by nie "pochyla³a siê" do przodu gdy przechyla siê samochód
